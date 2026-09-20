@@ -1,10 +1,5 @@
 # Group16_CSCE4907
-let's test the feature branch merging.
-
-Repository for **Group 16** — CSCE 4907.
-
 ## About
-
 This repository was created as part of a Git and GitHub training exercise. Its purpose is to practice and demonstrate core version-control skills, including:
 
 - Initializing a repository
