@@ -8,11 +8,11 @@ This repository was created as part of a Git and GitHub training exercise. Its p
 - Merging branches back into `main`
 
 ## Team
-Bishika Pokharel
-Sugam Thapa
-Rose Mapua
-Cortland Sanchez
-Brayden Fleming
+Bishika Pokharel,
+Sugam Thapa,
+Rose Mapua,
+Cortland Sanchez,
+Brayden Fleming.
 
 Group 16 — CSCE 4907
 
